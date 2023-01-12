@@ -11,6 +11,10 @@
 - class_name: '<i class="fas fa-check-double" style="color: #FF6666;padding-right: 0.4rem"></i>網站'
   class_desc: '<span style="font-style: italic;">重要的事情説一遍</span>'
   link_list:
+    - name: 黄岚博客
+      link: https://lanhuang025.github.io/
+      avatar: https://lskypro.acozycotage.net/LightPicture/2022/12/60e5d4e39da7c077.webp
+      descr: 爱你所爱，行你所行，听从你心，无问西东。
     - name: MYW
       link: https://crazywong.com/
       avatar: https://crazywong.com/img/avatar.png
